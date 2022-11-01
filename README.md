@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></div>
 
 
-<img src="https://img.shields.io/badge/JavaScript-React-Blue"><img src="https://img.shields.io/badge/JavaScript-Vue-Green"><img src="https://img.shields.io/badge/JavaScript-Angular-Red">
--->
+<img src="https://img.shields.io/badge/JavaScript-React-blue"><img src="https://img.shields.io/badge/JavaScript-Vue-green"><img src="https://img.shields.io/badge/JavaScript-angular-Red">
+
 - 🔭 I’m currently working on job sites.
 - 🌱 I’m currently learning Solana blockchain.
 - 👯 I’m looking to collaborate on freelancer.com, hh.ru, upwork etc.
