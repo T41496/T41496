@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></div>
 
 
-<img src="https://img.shields.io/badge/JavaScript-React-blue"> <img src="https://img.shields.io/badge/JavaScript-Vue-green"> <img src="https://img.shields.io/badge/JavaScript-Angular-red"> <img src="https://img.shields.io/badge/JavaScript-Node-green"> <img src="https://img.shields.io/badge/JavaScript-Next-brightgreen"> <img src="https://img.shields.io/badge/Python-orange"> <img src="https://img.shields.io/badge/PHP-Laravel-yellowgreen"> <img src="https://img.shields.io/badge/TypeScript-blue"> <img src="https://img.shields.io/badge/HTML&CSS-lightgrey"> <img src="https://img.shields.io/badge/Bootstrap-red"> <img src="https://img.shields.io/badge/Solidity-orange"> <img src="https://img.shields.io/badge/Solana-yellow"> <img src="https://img.shields.io/badge/MUI-orange">
+<img src="https://img.shields.io/badge/JavaScript-React-blue"> <img src="https://img.shields.io/badge/JavaScript-Vue-green"> <img src="https://img.shields.io/badge/JavaScript-Angular-red"> <img src="https://img.shields.io/badge/JavaScript-Node-green"> <img src="https://img.shields.io/badge/JavaScript-Next-blue"> <img src="https://img.shields.io/badge/Python-orange"> <img src="https://img.shields.io/badge/PHP-Laravel-yellowgreen"> <img src="https://img.shields.io/badge/TypeScript-blue"> <img src="https://img.shields.io/badge/HTML&CSS-lightgrey"> <img src="https://img.shields.io/badge/Bootstrap-red"> <img src="https://img.shields.io/badge/Solidity-green"> <img src="https://img.shields.io/badge/Solana-yellow"> <img src="https://img.shields.io/badge/MUI-orange">
 
 - 🔭 I’m currently working on job sites.
 - 🌱 I’m currently learning Solana blockchain.
