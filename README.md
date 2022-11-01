@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></div>
 
 
-<img src="https://img.shields.io/badge/<JavaScript>-<React>-<Blue>">
+<img src="https://img.shields.io/badge/JavaScript-React-Blue"><img src="https://img.shields.io/badge/JavaScript-Vue-Green"><img src="https://img.shields.io/badge/JavaScript-Angular-Red">
 -->
 - 🔭 I’m currently working on job sites.
 - 🌱 I’m currently learning Solana blockchain.
