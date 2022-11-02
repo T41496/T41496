@@ -33,9 +33,9 @@
 ## Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/T41496/count.svg)
 
-- 🔭 I’m currently working on job sites.
-- 🌱 I’m currently learning Solana blockchain.
-- 👯 I’m looking to collaborate on freelancer.com, hh.ru, upwork etc.
+- 🔭 I’m currently working as freelancer.
+- 🌱 I’m currently learning Solidity blockchain.
+- 👯 I’m looking to collaborate on companies.
 - 💬 Ask me about web dev & blockchain.
 - 📫 How to reach me: Tony Wills on Telegram...
 <!--
