@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>
 
 ## Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/T41496/count.svg)
@@ -45,8 +45,8 @@
 -->
 
 
->I am a Full-Stack Developer with a strong knowledge base and 5+ years of experience in developing Websites and Web-Based Systems.
-I can develop the web sites using not only php and its frameworks like `CI`, `Laravel`, `Yii`, also js frameworks like `React.js`, `Node.js`, `Next.js`, `Vue.js`, `Nest.js`.
-I have worked as blockchain full stack Developer in multiple crypto startups, projects related to NFT, Defi, Dapp, Betting games.
+>I am a Full-Stack Developer with a strong knowledge base and 3+ years of experience in developing Websites and Web-Based Systems.
+I can develop the web sites using not only `php` and its frameworks like `Laravel`, also `Python` and js frameworks like `React.js`, `Node.js`, `Next.js`, `Vue.js`, `Nest.js`.
+I have worked as full stack Developer.
 I am a life-long learner and is looking forward to working on exciting and challenging projects. I am continuously trying to improve, learn more and gain new experiences. Recently, I have been working mostly Solana blockchain.
 
