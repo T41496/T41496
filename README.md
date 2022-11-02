@@ -30,7 +30,6 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>
 
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
  
 ## Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/T41496/count.svg)
