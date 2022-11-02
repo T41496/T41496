@@ -28,9 +28,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T41496" alt="T41496" /></a> </p>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496)
-</p>
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496) </p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/></p>
