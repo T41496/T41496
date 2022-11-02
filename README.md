@@ -4,6 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></div>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74441675/177853337-b4be5e48-03e0-4fba-833c-0c811de4c28d.png" width="1056" height="211" data-xblocker="passed">
 
+<p align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-C96196?style=for-the-badge&logo=sass&logoColor=white)
@@ -25,15 +26,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T41496" alt="T41496" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T41496" alt="T41496" /></a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496)
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/></p>
 
  
 
