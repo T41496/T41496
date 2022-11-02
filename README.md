@@ -28,6 +28,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496)
 
+|<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>|
+
 ## Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/T41496/count.svg)
 
