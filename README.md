@@ -31,7 +31,7 @@
 
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>
+<img src="https://github-readme-stats.vercel.app/api?username=T41496&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=T41496"/>
 
  
 
