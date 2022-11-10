@@ -26,8 +26,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 <p align="center">
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T41496" alt="T41496" /></a> 
  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=T41496&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -37,7 +37,6 @@
   <br>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T41496&layout=compact)](https://github.com/T41496)
 
 
  
