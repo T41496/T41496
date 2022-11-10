@@ -29,7 +29,6 @@
 
 
 <p align="center">
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T41496" alt="T41496" /></a> 
  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=T41496&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
